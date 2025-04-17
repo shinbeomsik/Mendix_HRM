@@ -21,8 +21,8 @@ userlib/
 /.mendix-cache/
 /.classpath
 /.project
-/hrm_study.mpr.bak
-/hrm_study.mpr.lock
+/HRM_Study.mpr.bak
+/HRM_Study.mpr.lock
 /modeler-merge-marker
 /project-settings.user.json
 /javasource/*/proxies/
@@ -32,3 +32,5 @@ userlib/
 /nativemobile/builds/
 /vendorlib/temp/
 /.svn/
+/hrm_study.mpr.bak
+/hrm_study.mpr.lock
