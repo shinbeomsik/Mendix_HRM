@@ -1,0 +1,16 @@
+deployment/
+userlib/
+.DS_Store
+*.iml
+.idea/
+.gradle/
+*.log
+*.tmp
+*.class
+*.jar
+*.mpk
+*.bak
+.settings/
+.project
+.classpath
+
